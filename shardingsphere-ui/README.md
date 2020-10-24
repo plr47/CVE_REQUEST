@@ -1,4 +1,4 @@
-# Apache ShardingSphere UI full version YAML analysis remote code execution
+# Apache ShardingSphere UI  version 4.1.1 YAML analysis remote code execution
 
 
 
@@ -30,7 +30,7 @@ https://github.com/apache/shardingsphere/releases/tag/shardingsphere-ui-4.1.1
 
 ### Vulnerability description
 
-In Apache ShardingSphere(incubator)  full version, the ShardingSphere's web console uses the SnakeYAML library for parsing YAML inputs to load datasource configuration. SnakeYAML allows to unmarshal data to a Java type By using the YAML tag. Unmarshalling untrusted data can lead to security flaws of RCE.
+In Apache ShardingSphere(incubator)  4.1.1 version, the ShardingSphere's web console uses the SnakeYAML library for parsing YAML inputs to load datasource configuration. SnakeYAML allows to unmarshal data to a Java type By using the YAML tag. Unmarshalling untrusted data can lead to security flaws of RCE.
 
 
 
