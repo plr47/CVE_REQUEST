@@ -24,7 +24,7 @@ Alibaba Security  @yangjie
 
 ### Vulnerability testing environment
 
-https://github.com/plr47/CVE_REQUEST/tree/master/Mine/Motan/testmotan
+https://github.com/apache/shardingsphere/releases/tag/shardingsphere-ui-4.1.1
 
 
 
